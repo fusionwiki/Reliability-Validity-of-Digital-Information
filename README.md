@@ -2,15 +2,35 @@
 Criteria to ensure validity and reliability in digital information sources
 
 The five criteria for validity are:
-•	 You need to be sure if the information is presented in a collaborative website or not
-•	 You need to check if the information provided is based in a published research or not
-•	 Does all the information provided sound truthful?
-•	 If there is any evidences of the information in other websites or newspaper 
-•	 If the website or newspaper is reputed
+
+•	Being published in a peer-reviewed and credible journal
+
+•	Being backed up by supportive research based on first hand observations
+
+•	Sounding true and/or having evidences of truthfulness in other sources 
+
+•	Having citations and references 
+
+•	Being or not presented in a collaborative website
 
 The five criteria for reliability are:
-•	 You need to check if the source of information is authentic
-•	 You need to check if the information provided is contemporaneous
-•	 You need to be sure if the final findings can be created again without being diverted from the initial findings
-•	You need to check if the information could be repeated 
-•	 You need to check if the source of the data is reliable, and therefore, the data itself. 
+
+•	Having an authentic and reputable source 
+
+•	Being capable to be repeated
+
+•	Having a reliable source
+
+•	Being capable to have its findings created again without diverting from the initial ones
+
+•	Having a contemporaneous source
+
+
+Information Source	Description of Credibility
+1.	BBC	Reputed and contemporaneous newspaper
+2.	Facebook	Collaborative website, credibility is subject to doubt
+3.	Documentary records	Based on first hand observations
+4.	Interviews	Having a reliable and reputable source
+5.	Scientific Paper	Peer reviewed with supportive research, citations and references
+
+ 

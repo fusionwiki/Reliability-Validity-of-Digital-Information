@@ -1,4 +1,4 @@
-# Reliability-Validity-of-Digital-Information
+# Criteria for Reliability and Validity of Digital Information
 Criteria to ensure validity and reliability in digital information sources
 
 The five criteria for validity are:
